@@ -85,7 +85,7 @@ print(placeholder)
 
  
 random_word = random.choice(word)
-print(random_word)
+# print(random_word)
 # to do 2 = take user input for the guessed letter
 
 game_over = False
